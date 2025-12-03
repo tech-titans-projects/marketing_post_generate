@@ -1,20 +1,27 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Marketing Post Generator
+Marketing Copy Generator powered by Gemini AI. It helps users quickly create customized marketing content such as product descriptions, social media posts, and ads.
 
-# Run and deploy your AI Studio app
+## 🎯 Purpose
+Simplify marketing content creation.     
+Provide dynamic, AI-generated text adaptable to different platforms.  
+Save time for marketers, startups, and businesses while ensuring consistent brand messaging.   
 
-This contains everything you need to run your app locally.
+## ⚙️ Features
+**Content Types Supported:** Product Descriptions, Facebook Posts, Instagram Captions, Tweets, LinkedIn Posts.  
+**Customization Options:**   
+- Product/Service Name   
+- Target Audience   
+- Key Features & Benefits   
+- Tone of Voice (Professional, Casual, Witty, Persuasive, Empathetic, Bold)   
+- Length (Short, Medium, Long)   
+- Creativity Level (adjustable slider)    
+**AI-Powered Generation:** Instant copy generation using Gemini AI.   
 
-View your app in AI Studio: https://ai.studio/apps/drive/17xOKvZOCOzMHKyE3hPtwpcBlEIvPOCyj
+## 🛠 Tech Stack
+**Frontend:** React, HTML, CSS   
+**Backend:** Node.js   
+**AI Integration:** Gemini AI   
+**Deployment:** Vercel    
 
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🚀 Getting Started
+1. Open the post generator link
