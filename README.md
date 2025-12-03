@@ -1,5 +1,5 @@
 # Marketing Post Generator
-Marketing Copy Generator powered by Gemini AI. It helps users quickly create customized marketing content such as product descriptions, social media posts, and ads.
+Marketing Post Generator powered by Gemini AI. It helps users quickly create customized marketing content such as product descriptions, social media posts, and ads.
 
 ## 🎯 Purpose
 - Simplify marketing content creation.     
