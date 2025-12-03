@@ -2,9 +2,9 @@
 Marketing Copy Generator powered by Gemini AI. It helps users quickly create customized marketing content such as product descriptions, social media posts, and ads.
 
 ## 🎯 Purpose
-Simplify marketing content creation.     
-Provide dynamic, AI-generated text adaptable to different platforms.  
-Save time for marketers, startups, and businesses while ensuring consistent brand messaging.   
+- Simplify marketing content creation.     
+- Provide dynamic, AI-generated text adaptable to different platforms.  
+- Save time for marketers, startups, and businesses while ensuring consistent brand messaging.   
 
 ## ⚙️ Features
 **Content Types Supported:** Product Descriptions, Facebook Posts, Instagram Captions, Tweets, LinkedIn Posts.  
@@ -14,7 +14,7 @@ Save time for marketers, startups, and businesses while ensuring consistent bran
 - Key Features & Benefits   
 - Tone of Voice (Professional, Casual, Witty, Persuasive, Empathetic, Bold)   
 - Length (Short, Medium, Long)   
-- Creativity Level (adjustable slider)    
+- Creativity Level (adjustable slider)
 **AI-Powered Generation:** Instant copy generation using Gemini AI.   
 
 ## 🛠 Tech Stack
